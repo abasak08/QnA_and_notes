@@ -1,11 +1,9 @@
 # General questions:
 
 1. What is the impact of SNSI in quark sector?
-2. why $\nu_e$ appearance channel shows significant impact on oscillation probability while\
-   considering  SNSI model in neutrino oscillation?
+2. why $\nu_e$ appearance channel shows significant impact on oscillation probability while considering  SNSI model in neutrino oscillation?
 3. Why $\eta_{e\mu}$, $\eta_{e\tau}$, $\eta_{\mu\tau}$ parameters have significant impact on the oscillation probabilities?
-4. Why there are  two type of experiments once uses first maxima (NO$\nu$A) and second maxima\
-    (ESS$\nu$SB) of $\nu_e$ appearance channel to estimate neutrino oscillation paramterts? 
+4. Why there are  two type of experiments once uses first maxima (NO$\nu$A) and second maxima (ESS$\nu$SB) of $\nu_e$ appearance channel to estimate neutrino oscillation paramterts? 
     * *What are the physical significance of this?*
     * *In this context what is the DUNE's physics goal?*
 5. Can the anomaly observed in $\nu_e$ appearance spectra explained by SNSI model?
