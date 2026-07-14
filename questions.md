@@ -11,3 +11,9 @@
 7. If There exists another flavor of neutrino (say, sterile neutrino) woun't be there any lepton number associated with that?
    * Or this is a concept of lepton number violation.
 8. How hypercharge comes into play in electromagnetic part of standard model instead of electric charge?
+9. HOw to we distinguish from atmospheric neutrinos, solar neutrinos and supernova neutrinos?
+    * When it comes to distinguish neutrinos comming from different sources, the most important thing is the neutrino energy.
+    * **Solar Neutrino**   have energy within 0.5 - 10 MeV.
+    * **Supernova Neutrino** have energy in a range of 10 - 50 MeV.
+    * **Atmospheric Neutrino** have energy with 100 MeV - 100 TeV.
+    - This gives a point of difference to distinguish from neutrinos comming from different sources.
