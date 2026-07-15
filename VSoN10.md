@@ -47,7 +47,7 @@
 * In 1973, NC Interactions were introduced. This is the experimental evidence of GWS model. NC interaction was discovered in **Gargamelle experiment** in CERN.
   * Gargamelle detector is a bubble chamber.
   * $\bar{\nu}_e e^{-} \rightarrow \bar{\nu}_e e^{-}$ : **No muon neutrino produced**
-  * $\bar{\nu}_{\mu}$  $+ N \rightarrow \bar{\nu}_{\mu}$ + hadrons: **No muon neutrino produced**
+  * $\bar{\nu}_{\mu} + N \rightarrow \bar{\nu}_{\mu}$ + hadrons$ :**No muon neutrino produced**
   * **HOW THIS CAN BE CONCLUDED FROM THIS TWO ABOVE REACTION THAT THERE EXSISTS A NC CHANNEL!!**
 * GWS was awarded because of the discovery of NC, which gave experimental evidence of GWS prediction of NC interaction.
 * In 1983, W and Z boson discovery UA1/UA2 experiment in SppS, CERN.
@@ -117,7 +117,7 @@
 
 * There is errors related to hypothesis testing. Such as,
   * $H_0$ : $\theta_{13} = 0$
-  * $H_1$ $\theta_{13} \neq = 0$ .
+  * $H_1$ $\theta_{13} \neq  0$ .
 * Error:
   * **Type I Error :** rejects $H_0$ even though it is true.
   * * **Type II Error :** rejects $H_1$ even though it is true.
