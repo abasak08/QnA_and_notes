@@ -51,7 +51,7 @@
   * Gargamelle detector is a bubble chamber.
   * $\bar{\nu}_e e^{-} \rightarrow \bar{\nu}_e e^{-}$ : **No muon neutrino produced**
   * $\bar{\nu}{_\mu}+ N \rightarrow \bar{\nu}{_\mu} + hadrons$ :**No muon neutrino produced**
-  * **HOW THIS CAN BE CONCLUDED FROM THIS TWO ABOVE REACTION THAT THERE EXSISTS A NC CHANNEL!!**
+  * **[Q] HOW THIS CAN BE CONCLUDED FROM THIS TWO ABOVE REACTION THAT THERE EXSISTS A NC CHANNEL!!**
 * GWS was awarded because of the discovery of NC, which gave experimental evidence of GWS prediction of NC interaction.
 * In 1983, W and Z boson discovery UA1/UA2 experiment in SppS, CERN.
 * In 2012, Higgs particle discovery in LHC CERN.
@@ -137,7 +137,7 @@
 
 * This is measure of uncertainities related to our experimnet.
 * The needed to be included in the analysis.
-* They must be included along with there correlations between them. ==**How to measure this correlation between them?**==
+* They must be included along with there correlations between them. **[Q] How to measure this correlation between them?**
 
 #### Monte-Carlo simulation:
 
@@ -153,3 +153,120 @@
 
 
 -------------------------------------------------------------------------------
+
+## Day 2 (16th July 2026)
+
+### Particle and radiation detector 1/2 (Tsuyoshi Nakaya, Kyoto Univ., Hyper-K)
+
+* X-rays and $\gamma$ radiation.
+* Detection of charged particle and neutral particle happens differently. 
+* **Books:**
+  * Knoll
+  * Leo
+  * Introduction to expt. particle physics
+  * detector for particle ration
+* Difference between gamma ray and X-rays. **They are photons but depending production and energy gamma ray and X-ray are classified.**
+  * X-ray comes from atomic process.
+  * gamma photon comes from nuclear process.
+* Nuclear physicist use half-life time whereas, particle physicist uses life-time (/Avg. life time) 
+* In photon detector we detect single photon. **MPPC can detect one photon. But what type of photon visible light, gamma photon or some thing else.**
+
+
+#### Visble light:
+
+$$
+  E = h \nu \\
+$$
+$$
+\lambda = \frac{1.240 \times 10^{-6}}{E}
+$$
+where, $\lambda$ in meters, E in eV
+
+* So, we need two battery of 1.5 V to generate red lights.
+* Sun temp. is 6000k, using Black body radiation we can determine the wavelenght from wein's displacement law. Then we can compute the Energy. Which will lie withing white range.
+* Temp. of our body is 300k, photons from our body in long wavelegnth range.
+
+#### Other radiation:
+
+* $\alpha$, $\beta$ and cosmic ray.
+  * Cosmic ray consist of muon (1 muon/100 $cm^2$/ec)
+  * Cosmic proton (Which is hydrogen nucleus, the most abundant particle in universe) interact with atmopsheric Nitrogen and Oxygen to produce pion.
+  * Pions decay to muon and neutrinos.
+  $$
+  H^{+} = P \\
+  P + N_2, O_2 \rightarrow \pi^{\pm, 0} + X (hadrons) \\
+  \pi \rightarrow \mu + \nu_{\mu}
+  $$
+
+$$
+\tau_\mu = 20 ns \\
+\gamma c \tau_\mu =  \gamma \times 3 \times 10^{8} m/s \times 20 \times 10^{9} s 
+$$
+
+Where, $\gamma$ factor depends on energy of the proton energy and mass.
+
+
+#### $\alpha$ particle:
+
+* **[Q] Why $\alpha$ particle ($He^{4}_{2}$) is stable particle?**
+  * s-orbit is most stable, $0^{+}$  is more stable nuclear states.
+
+
+#### X-rays and $\gamma$ rays:
+  * Bremsstralung radition is source of $\gamma$ ray, when relativistic charge particle propagates in electric field it emmits radition.
+  * Synchrotron radtion is also a source of gamma rays, when relativistic charge particle moves inside a magnetic field.
+
+#### Energy loss of heavy charged particle:
+
+* How much energy is deposited inside the matter by a charge particle.
+* Bethe bloch can formula can be used to detemined the energy deposited in unit length of a material.
+![Bethe-Bloch formula](./figs/VSoN10/Bethe-Bloch_leo.png)
+* **Have to do Bethe bloch formula derivation!!**
+* **[Q] How neutron deposites energy in matter. It is a neutral particle.**
+* **[Q] What is the momentum of a muon to beMinimun ionization of particle (MIP)?**
+  $$
+  E= m\gamma \\
+  p = m\beta \gamma \\
+  \beta \gamma = \frac{p}{m} \\
+  m_{\mu} = 100 MeV/c^{3} \equiv 0.1 GeV /c^{2} \\
+  \beta \gamma = 3 \\
+  or, \frac{p}{m} = 3 \\
+  or, \frac{p}{0.1 Gev/c^{2}} = 3 \\
+  or, p = 0.3 GeV/c
+  $$
+  * **Why $\beta\gamma =3?$**
+    * From experimental plots.
+  * Super-K have a diameter of 30m and for muon $-\frac{dE}{dx} = 2$ Mev/cm
+  $$
+  E_{deposite} = -\frac{dE}{dx} \times L \\
+  or, E_{deposite} = 2 MeV/cm \times 30 \times 1000 \\
+  or E_{deposite} = 6000 MeV \equiv 6 GeV
+  $$
+  Super-K can detect 6 GeV muons but in reality it can also detect higher energy muons.
+
+* Even though Bethe-Bloch can be used for charged particle, but except electron beacuse during derivation of bethe-bloch we consider electron as target. Hence electron-electron collision will be not that much simple.
+
+* Energy distribution of cosmic muon when pass through scintillator the distribution we get is called *Landau distribution*.
+
+* While propagating charged particle losses energy due collsion as well as radiation such as Bremsstralung raditaion.
+  $$
+   -\frac{dE}{dx} = \left(\frac{dE}{dx}\right)_{Rad.} + \  \left(\frac{dE}{dx}\right)_{Col.}
+  $$
+
+* **Radiation length:** When the energy of the radiation becomes 1/e times to that of the initial one. 
+* **Stopping power:** The distance when particle looses all the energy inside the medium.
+* **Bragg's curve:** $\frac{dE}{dx}$ vs penitration length. This curve is used in medical treatment like cancer treatment.
+*  **Range:** The distance where the particle number is halved from the initial one.
+*  
+* **[Q] What is the range of pion with 100 MeV??**
+* Defining the range of electron is not easy as it do not follow st. path due to different type of radition process. Extrapolation can be used to determine it's range. 
+* Interaction of $e^{+}$ is same while it is moving, but when it stops when anhilates and produce photons.
+* **[Q] Why $e^{-}e^{+}$  decay via two channel one produced two photon and other three photon - why?**
+  * *$e^{-}e^{+} \rightarrow \gamma \gamma$ (Spin 0) : para-positronium*
+  * *$e^{-}e^{+} \rightarrow \gamma \gamma \gamma$ (Spin 1) : otho-positronium para-positronium*
+* **[Q] What is the lifetime of positronium?**
+
+
+###  Standard model and neutrinos 1/2 (Nhung Dao, Phenikaa Univ.)
+
+* 
