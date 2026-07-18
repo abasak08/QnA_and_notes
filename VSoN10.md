@@ -473,3 +473,39 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 * **HAVE TO STUDY SU(2)$_L$ $\otimes$ U(1)$_{Y}$ AND SYMMETRY BREAKING**
 * Projection operator is $P_{L/R}$ and chiral operator is $\gamma_{5}$. **HAVE TO CLEAR THIS THING**
 * Quark doublet can writen as $\begin{pmatrix} d_{L}  \\ u_{L} \end{pmatrix}$ but have to make sure all the physics remains the same so charges (EM, Hypercharge) must be modified accordingly.  
+* **Number of independent element in CKM matrix:**
+![Number of CKM elements](./figs/VSoN10/CKM_elements.png)  
+* This will be similar incase of PMNS too...
+* There are still many questions on neutrinos such as:
+![Open questions](./figs/VSoN10/neutrino_open_quesyions.png)
+* **Have to study SEESAW mechanism!!**
+  
+* **The Majorana phase can be estimated from neutrino less double beta decay ($0\nu\beta\beta$). The event rate is proportional to the linear combination of both phases. So, probing them individually is difficult but we can have an estimate if there exists Majorana phase or not.**
+
+
+### Reactor neutrino experiments (Akira Takenaka, Sun Yat-sen Univ.)
+
+* **Have to study the Nobel literature by Renines for 1st reactor neurino flux measuremnt.**
+* Scintillation photon are isotropic and Cherenkov photons have direction information. The number of photon produced in scintillation is higher than of the Cherenkov process.
+* **In reactor neutrino experiment we can observe $\nu_{\mu}, \nu_{\tau}$ as the antineutrino energy is low. So we observe antineutrino survival proability.**
+![Reactor neutrino](./figs/VSoN10/reactor_neutrino.png)
+* KamLAND reactor neutrino experiment can probe $\Delta m^2_{21}$, fast oscillation part for $\Delta m^2_{31}$ is invisible for KamLAND.
+
+* **Delayed coincidence technique** is used in Cowan and Reines, KamLAND experiment. **WHat is that!?**
+
+* Daya Bay experiment can probe the fast oscillation i.e. $sin^2(2\theta_{13})$.
+* Accelerator/atmospheric neutrino results aligns with each other for $sin^2(2\theta_{13})$ and $|\Delta m^2_{31}|$.
+
+![Status of oscillation parameter](./figs/VSoN10/status_of_osc_param.png)
+
+* **Why uncertainity in $sin^2(2\theta_{13})$ is high in accelerator experiment whereas for $\Delta m^2_{31}$ uncertainity is high in reactor neutrino experiments ??** For JUNO $\Delta m^2_{31}$ uncertainity is small. **WHY?**
+
+* **What is reactor neutrino anonmaly??**
+* Reactor neutrino anomaly gives the motivation to study sterile neutrinos.
+* JUNO uses same principle as KamLAND to detect neutrinos.
+
+
+------------------------------------------------------------------------------
+
+## Day 4 (18th july 2026)
+### High energy neutrino astronomy and Supernova neutrino (Alba Domi, ECAP)
