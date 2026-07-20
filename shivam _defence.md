@@ -9,7 +9,8 @@
 - Solar neutrino problem.
   - Explanation of their results.
 - Why number of event is plotted against polar angle not azimuthal angle? 
-
+  * The thing is here the question is not correct. The angles are zenith and azimutal angles. We prefer zenith angle because it gives an estimate of the baseline.
+![Baseline in atmosperic neutrinos](./figs/Shivam_defence/zenith_angle_icecube.png)
 ##  Experiment & Analysis:
 
 - Importance of L/E ratio to probe different oscillation parameters.

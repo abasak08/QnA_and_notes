@@ -499,7 +499,8 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 ![Status of oscillation parameter](./figs/VSoN10/status_of_osc_param.png)
 
 * **Why uncertainity in $sin^2(2\theta_{13})$ is high in accelerator experiment whereas for $\Delta m^2_{31}$ uncertainity is high in reactor neutrino experiments ??** For JUNO $\Delta m^2_{31}$ uncertainity is small. **WHY?**
-
+  * This is purely due to statistical reason.
+  
 * **What is reactor neutrino anonmaly??**
 * Reactor neutrino anomaly gives the motivation to study sterile neutrinos.
 * JUNO uses same principle as KamLAND to detect neutrinos.
@@ -509,3 +510,120 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 
 ## Day 4 (18th july 2026)
 ### High energy neutrino astronomy and Supernova neutrino (Alba Domi, ECAP)
+
+* **Neutrino astromoy**
+#### High energy neutrino souces:
+* Neutrino is an ideal candidate of messenger other than photons and protons.
+* Photons interacts with CMB.
+* Protons interacts with CMB and being electrically charged it deflected by   magnetic field.
+* Being Cross section small ($10^{-38} cm^2$ at  1 GeV) it can travle long distance.
+* High energy neutrino produced by $P+matter \rightarrow \pi \rightarrow \nu + \mu$.
+* Extragalactic and galactic neutrino sources.
+* **AGN :** Active Galactic Nulcei, source of extragalactic neutrinos.
+*  **GRBs :** Gamma Ray Brusts, source of extragalactic neutrinos.
+*  Supernova reminant is source of galactic neutrino sources along with Magnestars.
+  
+#### Neutrino telescope:
+
+* KM3Net, IceCube are the example of neutrino telescope.
+* Detection principle include detection cherenkov photons produced in the medium.
+* **HAVE TO STUDY CHERENKOV DETECTION!!**
+* Photons are detected in PMTs.
+* For water, Cherenkov angle $\theta_C = 42^{\circ}$
+* ANTARES, Italy is Neutrino telescope.
+* *ORCA-DU* : These are the detection units used in KM3Net.
+* Optical background in water:
+  * K40 decay.
+  * Bioluminosence.
+* Effective area measuremnt for estimating event rates in neutrino telescope.
+
+#### Neutrino sources:
+
+* **NGC 1068 :** Brightest neutrino source (AGN).
+* **TXS 0506+056 :** First neutrino balazer (AGN).
+* NGC donot have any jets towards the earth and TXS have jet in direction towards earths. These jets are the the source of the neutrinos.
+* **Cosmic and cosmogenic origin** of neutrinos.
+  * Cosmic Origin (Relic Background): Produced roughly 1 second after the Big Bang, these neutrinos are a primordial remnant of the early universe.
+  * Cosmogenic Origin (Secondary Production): These are generated during the propagation of Ultra-High-Energy Cosmic Rays (UHECRs).
+* **Neutrino radio detection**
+
+#### Supernova neutrinos:
+
+* Supernovas are classified into 1a, 1b, 1c catagories.
+* Supernova neutrino in MeV energy range.
+* Kamiokande detected **SN 1987 A**.
+* *Neutrino comes faster than photon from supernova because photon have a Brownian motion like behavior and also it interacts with matter. No a global aleart symstem is mainted called SuperNova Early Warning System (SNEWS) which tells all the neutrino and photon telescope to focus on the certain direction of the sky.*
+* **DSNB** Diffused SuperNova Background.
+
+
+### Super-Kamiokande detector (Makoto Miura, ICRR Tokyo)
+
+* KamiokaNDE was introduce to provide experimental evidence of GUTs via measuring proton lifetime.
+* Background event of proton decay is neutrino event so they had to study neutrino. 
+* And they became neutrino experiment.
+* At that time there were two big neutrino problems:
+  * Solar neutrino problem
+  * Atmospheric neutrino problem
+* To investigate in detalis Kamiokande and IMB gourp collaborated to build Super-Kamiokande (SK).
+* **Physics goals of SK:**
+  * Atmospheric neutrino
+  * Solar neutrinos
+  * Supernova Neutrinos
+  * Proton decay
+  * Accelerator neutrinos (T2K)
+* **[Q] Why Gd doped with pure water??**
+  * SK used ultrapure water till 2018 which do not able to seperate between $\nu$ and $\bar{\nu}$ as SK can not identify charge but inclusion of Gd helps to distinguish between them by 8 MeV $\gamma$ photon from neutron capture of Gd. **HOW!?**
+* After 2022 when Gd dissolving was completed SK became SKGd.
+* **And main physics target was changed to probe DSNB (Diffused SuperNova Background)**.
+* SK uses cherenkov photon to detect neutrinos. 
+* SK tank contains 50 kt ultra pure water.
+* **[Q] Calculate Cherenkov threshold for $\mu$ ($m_\mu=106 MeV/c^2)$ and $\pi$ $(m_\pi=140 MeV/c^2)$**.
+  * *Hint: $P_{th}=m\beta\gamma= m\beta/\sqrt{(1-\beta^2)}$*
+* Outer shielding is added in SK out block cosmic rays.
+
+* **SK Event display:**
+  ![SK event display](./figs/VSoN10/sk_nue_numu_event.png)
+  * Left one is for electron, fuzzy ring due to EM shower.
+  * Right one is for muon, sharp ring no EM shower.
+  * **Why elctron shows shower whereas muon shows long track?**
+  
+### Software training: SK particle ID (Makoto Miura, ICRR Tokyo)
+
+
+*  **Why elctron shows shower whereas muon shows long track?**
+   *  Muon is 200 times heavier than electron and hard to make the showe.
+   *  Emits Cherenkov light until it stops.
+   *  Muons run longer distance than electron.
+
+
+
+
+
+----------------------------------------------------------------------------
+
+## Day 5 (20th july 2026)
+
+### From Kamiokande to K2K 1/2 (Yuichi Oyama, KEK/J-PARC)
+
+* GUT suggest quark's can be converted to leptons and the associated gauge boson is heavy M~$10^{15}$ GeV.
+* Just after bigbang this type of interaction were frequent.
+* GUT is extension of GWS model.
+* Neutrino decay is predicted by GUT.
+* Which is the physics motivation of Kamiokande experiment.
+
+#### Physics motivation of Kamiokande:
+
+* Nucleaon lifetime is expected to be $10^{28} - 10^{32}$ years.
+* Most hopeful model predicts life time to be $10^{28}$ years.
+* Which leads to $\approx 6$ nucleon decay per years.
+* Back to back event is important for nucleon decay. **Why and how!!!??**
+* No nucleon decay signal was found in Kamiokande after 2 years of observation.
+* After that main physics goal changed to Kamioka Nucleon Decay Experiment to Kamioka Neutrino Detection Experiment.
+
+
+#### Neutrino detection in Kamiokande:
+
+* Kamiokande focuses on atmospheric and solar neutrino detection.
+* Energy range of atmospheric neutrino is ~ 1 - 10 MeV for atmospheric neutrinos. 
+* Lower tigger rate allows to measure 8 MeV solar neutrinos too.
+* 
