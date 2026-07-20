@@ -438,7 +438,7 @@ $$
 cos\theta_c = \frac{ct/n}{\beta ct} = \frac{1}{\beta n}
 $$
 
-![Cherenkov angle](./figs/VSoN10/Cherenkov.svg)
+      ![Cherenkov angle](./figs/VSoN10/Cherenkov.svg)
 Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive index. From this we can measure the angle of the chernkov ration from the vertex.
 
 * **Disadvantages:** For Cherekov raditaion light yeild is very small. 
