@@ -1,8 +1,3 @@
-----------------------------------------------------------------
-- Title: Notes from VSoN10 
-- Author: Anirban Basak 
-- Date: July 2026
-----------------------------------------------------------------
 # Notes from VSoN10 (July 2026)
 ================================================================
 ## Day 1 (15th July 2026, Tuesday)
@@ -648,3 +643,12 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 #### IMB-3 Experiment:
 
 * It's results aligns with Kamiokande results. 
+
+#### Atmospheric neutrino oscillation:
+
+* **$J/\psi$ discovery of charm quark at 1974.**
+* Atmospheric neutrino oscillation $\nu_\mu \rightarrow \nu_\tau$ is not belived by the spokes person of Kamiokande in 1992. This is due to the fact:
+  *  Capacity if $e/\mu$ paticle identification.
+  *  More statisctical data was needed.
+  *  Uncertainity in atmospheric neutrino flux.
+  *  Negative results from other experiments like Frejus and NUSEX.
