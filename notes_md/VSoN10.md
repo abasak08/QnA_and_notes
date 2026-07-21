@@ -9,7 +9,7 @@
 * Why there is no matter consists of neutrinos similar to that of matter fermions?
    * *If we consider leptons as SU(2) doublets, it can be assumed neutrino interaction changes upper state to lowerstate before and after respectively.*
 * Comparison between hadron-neuclei interaction $\sigma \approx 3 \times 10^{-26} cm^{-2}$ whereas, neutrino-neuclei interaction $\sigma \approx 1 \times 10^{-38} cm^{-2}$.
-
+git@github.com:abasak08/QnA_and_notes.git
 * *STUDY ABOUT SAVANA RIVER EXPERIEMT BY REINES AND COWAN*
     * This leads to discovery of anti-neutrinos.
     * **The basic principle:** two photons will come from $\bar{\nu}_e + p \rightarrow e^{-} + n$  and $e^{-}\rightarrow \gamma\gamma$, $n + Cd \rightarrow Cd^{*} \rightarrow Cd + \gamma$. i.e. two gammas detected withing 5 mircosec interval. Conicedence tecnique is use to detect the neutrino.
@@ -220,7 +220,7 @@ Where, $\gamma$ factor depends on energy of the proton energy and mass.
 
 * How much energy is deposited inside the matter by a charge particle.
 * Bethe bloch can formula can be used to detemined the energy deposited in unit length of a material.
-![Bethe-Bloch formula](./figs/VSoN10/Bethe-Bloch_leo.png)
+![Bethe-Bloch formula](../figs/VSoN10/Bethe-Bloch_leo.png)
 * **Have to do Bethe bloch formula derivation!!**
 * **[Q] How neutron deposites energy in matter. It is a neutral particle.**
 * **[Q] What is the momentum of a muon to beMinimun ionization of particle (MIP)?**
@@ -438,7 +438,7 @@ $$
 cos\theta_c = \frac{ct/n}{\beta ct} = \frac{1}{\beta n}
 $$
 
-![Cherenkov angle](./figs/VSoN10/Cherenkov.svg)
+![Cherenkov angle](../figs/VSoN10/Cherenkov.svg)
 Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive index. From this we can measure the angle of the chernkov ration from the vertex.
 
 * **Disadvantages:** For Cherekov raditaion light yeild is very small. 
@@ -469,10 +469,10 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 * Projection operator is $P_{L/R}$ and chiral operator is $\gamma_{5}$. **HAVE TO CLEAR THIS THING**
 * Quark doublet can writen as $\begin{pmatrix} d_{L}  \\ u_{L} \end{pmatrix}$ but have to make sure all the physics remains the same so charges (EM, Hypercharge) must be modified accordingly.  
 * **Number of independent element in CKM matrix:**
-![Number of CKM elements](./figs/VSoN10/CKM_elements.png)  
+![Number of CKM elements](../figs/VSoN10/CKM_elements.png)  
 * This will be similar incase of PMNS too...
 * There are still many questions on neutrinos such as:
-![Open questions](./figs/VSoN10/neutrino_open_quesyions.png)
+![Open questions](../figs/VSoN10/neutrino_open_quesyions.png)
 * **Have to study SEESAW mechanism!!**
   
 * **The Majorana phase can be estimated from neutrino less double beta decay ($0\nu\beta\beta$). The event rate is proportional to the linear combination of both phases. So, probing them individually is difficult but we can have an estimate if there exists Majorana phase or not.**
@@ -483,7 +483,7 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 * **Have to study the Nobel literature by Renines for 1st reactor neurino flux measuremnt.**
 * Scintillation photon are isotropic and Cherenkov photons have direction information. The number of photon produced in scintillation is higher than of the Cherenkov process.
 * **In reactor neutrino experiment we can observe $\nu_{\mu}, \nu_{\tau}$ as the antineutrino energy is low. So we observe antineutrino survival proability.**
-![Reactor neutrino](./figs/VSoN10/reactor_neutrino.png)
+![Reactor neutrino](../figs/VSoN10/reactor_neutrino.png)
 * KamLAND reactor neutrino experiment can probe $\Delta m^2_{21}$, fast oscillation part for $\Delta m^2_{31}$ is invisible for KamLAND.
 
 * **Delayed coincidence technique** is used in Cowan and Reines, KamLAND experiment. **WHat is that!?**
@@ -491,7 +491,7 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 * Daya Bay experiment can probe the fast oscillation i.e. $sin^2(2\theta_{13})$.
 * Accelerator/atmospheric neutrino results aligns with each other for $sin^2(2\theta_{13})$ and $|\Delta m^2_{31}|$.
 
-![Status of oscillation parameter](./figs/VSoN10/status_of_osc_param.png)
+![Status of oscillation parameter](../figs/VSoN10/status_of_osc_param.png)
 
 * **Why uncertainity in $sin^2(2\theta_{13})$ is high in accelerator experiment whereas for $\Delta m^2_{31}$ uncertainity is high in reactor neutrino experiments ??** For JUNO $\Delta m^2_{31}$ uncertainity is small. **WHY?**
   * This is purely due to statistical reason.
@@ -577,7 +577,7 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 * Outer shielding is added in SK out block cosmic rays.
 
 * **SK Event display:**
-  ![SK event display](./figs/VSoN10/sk_nue_numu_event.png)
+  ![SK event display](../figs/VSoN10/sk_nue_numu_event.png)
   * Left one is for electron, fuzzy ring due to EM shower.
   * Right one is for muon, sharp ring no EM shower.
   * **Why elctron shows shower whereas muon shows long track?**
@@ -626,7 +626,7 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 * They found 8 neutrino events with energies between 20 MeV and 40 MeV during 6 secs.
 * In kamiokande paticle and antiparticles are not distinguished if not needed.
 * Downaward $\nu_e$, Downing going $\nu_mu$ and upgoing $\nu_e$ agrees with the expectation whereas upgoing $\nu_\mu$ do not agrees with the expectation. Which is called atmospheric neutrino deficit.
-   ![Atmospheric neutrino deficit](./figs/VSoN10/atm_nu_deficit.png)
+   ![Atmospheric neutrino deficit](../figs/VSoN10/atm_nu_deficit.png)
 * Atmosperhic neutrino deficit can be explained by $\nu_\mu \rightarrow \nu_\tau$ oscillation.
 
 
@@ -670,7 +670,7 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
   * $\frac{d^2\sigma}{d p_\mu d\theta_\mu}$ : double differential cross section wrt to momentum and angle.
 * Depending upon the energy of the neutrinos sees different particles. At low energy neutrinos rarely interacts. At relatively higher energy neutrino see nucleons (most of the LBL opertaes in this range) and at very high energy neutrino intercts with quark and lots of particles are produced.
 
-![Varibles in lepton-neucleon inteaction](./figs/VSoN10/lepton-nucleon_interaction.png)
+![Varibles in lepton-neucleon inteaction](../figs/VSoN10/lepton-nucleon_interaction.png)
 
 * **How to estimate the form factors???!!**
 
@@ -685,11 +685,11 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 * For different experimental fluxes, the dominating interaction channel is different, E.g.:
   *  T2K is dominated by CCQE interactions.
   *  but MINERvA includes more CCRes and DIS
-![flux and crossection](./figs/VSoN10/bkg_flux_crosssection.png)
+![flux and crossection](../figs/VSoN10/bkg_flux_crosssection.png)
 * **Depending on the neutrino beam energy the beam contains flux from different processes.**
 * In Deep Inelastic Scattering (DIS) which happens in higer energy range neutrinos interacts with quarks and in final state a large number of particles are produced.
 * *Have to underastand e-nucleon interaction first then go for nucleon-nucleaon scattering. Which will help us a lot in this case we just need to map the lepton from electron to neutrinos.*
-![electron to neutrino mapping](./figs/VSoN10/electron_to_neutrino_mapping.png)
+![electron to neutrino mapping](../figs/VSoN10/electron_to_neutrino_mapping.png)
 
 * To understand neutrino-neucleon interaction we are considering Final State Interaction (FSI) model. There are other things like:
   * Nuclear model, which nuclaear model we are considering : Here we consider **Fermi motion**.
@@ -701,7 +701,7 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
   * Relativistic Fermi Gas (RFG) model:
     * Global Fermi gas model: Uniform desnity (unrealistic)
     * Local fermi gas model : Not uniform density (More realistic)
-    ![Fermi Gas Model](./figs/VSoN10/FG_model.png)
+    ![Fermi Gas Model](../figs/VSoN10/FG_model.png)
   * Spectral function approach.
   * Mean-field theroy: It models nuclear force with meson exchange.
 * In Final-state interactions we have to take account of several things, such as:
@@ -717,9 +717,9 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 ### Software training: NEUT (Ngoc Tran and Jake McKean)
 
 #### MC sample:
-[MC method in event generator](./figs/VSoN10/VSoN_Introduction_to_NEUT_JMcK.pdf)
+[MC method in event generator](../figs/VSoN10/VSoN_Introduction_to_NEUT_JMcK.pdf)
 #### NUET handson:
-[Whole slide](./figs/VSoN10/VSoN_Introduction_to_NEUT_JMcK.pdf)
+[Whole slide](../figs/VSoN10/VSoN_Introduction_to_NEUT_JMcK.pdf)
 
 
 
@@ -739,3 +739,34 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
   *  Located in Italy.
 * *Soudan-2 experiment (1989-2001)*:
   * Located in soudan mine, Minnesota, US.
+
+##### Calculation of atm. neutrino flux:
+
+* Calculation of atm. neutrino flux depends on:
+  * Primary proton and heavy nuclei flux
+  * Geomagnetic field.
+  * Atmospheric tempareture.
+* **The main takeaway is:** Event though the there were uncertainity in measureing atmospheric neutrino flux, the $\nu_{e}/\nu_{\mu}$ remains same.
+* Large uncertainity while measuring atmospheric neutrino motivateed us to go for accelerator type neutrinos.
+* There is pros and cons when we comapre atmospheric neutrio and accelerator neutrinos.
+* *"Though there are many advantanges of accelerator neutrino over atmospheric neutrinos but first neutrino oscillation was discoverd using atmospheric neutrino experiment so atmospheric neutrino experiment is the winner in  that way."* - **Oyama-San**
+* **K2K experiment:**
+  * KEK to Kamiokande.
+  * Near detector is ~ 300m from target. It consist fine grain detector and a water cherenkov detector.
+  * Far detector was Kamiokande water cherenkov detector.
+  * Beam started 1999.
+  * It collected $9.8 \times 10^{38}$ POT equivalent events.
+  * Time correlation is done using GPS. Beam window is 1,5 $\mu s$.
+  * K2K results agrees with Super-K results.
+  * This was the first experiment with accerator neutrino beam, to study atmospheric neutrino results.
+* **MINOS experiment :**
+  * $\nu_mu$ disappearance channel was studied.
+  * 1st publication in 2006.
+  * This independently confimed neutrino oscillations.
+
+* **In 2015, Kajita-San (Super-K) and McDonald (SNO) was given nobel prize for $\nu_\mu \rightarrow \nu_\tau$ oscillation.**
+
+* **Why donot we study $\nu_\tau$ appearance channel?**
+* L/E analysis helps us to probe neutrino decoherence and neutrino decay.
+* After that arround 2000 there was several experiment which studied $\nu_e \rightarrow \nu_\mu$.
+* This leads to study of three flavor oscillations. 
