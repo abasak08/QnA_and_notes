@@ -720,3 +720,11 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 [MC method in event generator](./figs/VSoN10/VSoN_Introduction_to_NEUT_JMcK.pdf)
 #### NUET handson:
 [Whole slide](./figs/VSoN10/VSoN_Introduction_to_NEUT_JMcK.pdf)
+
+
+
+## Day 6 (21st July 2026)
+
+### From Kamiokande to K2K 2/2 (Yuichi Oyama, KEK/J-PARC)
+
+*
