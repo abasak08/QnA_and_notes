@@ -192,14 +192,14 @@ where, $\lambda$ in meters, E in eV
   * Cosmic proton (Which is hydrogen nucleus, the most abundant particle in universe) interact with atmopsheric Nitrogen and Oxygen to produce pion.
   * Pions decay to muon and neutrinos.
   $$
-  H^{+} = P \\
-  P + N_2, O_2 \rightarrow \pi^{\pm, 0} + X (hadrons) \\
+    H^{+} = P \\
+    P + N_2, O_2 \rightarrow \pi^{\pm, 0} + X (hadrons) \\
   \pi \rightarrow \mu + \nu_{\mu}
   $$
 
 $$
-\tau_\mu = 20 ns \\
-\gamma c \tau_\mu =  \gamma \times 3 \times 10^{8} m/s \times 20 \times 10^{9} s 
+  \tau_\mu = 20 ns \\
+  \gamma c \tau_\mu =  \gamma \times 3 \times 10^{8} m/s \times 20 \times 10^{9} s 
 $$
 
 Where, $\gamma$ factor depends on energy of the proton energy and mass.
@@ -224,25 +224,25 @@ Where, $\gamma$ factor depends on energy of the proton energy and mass.
 * **[Q] How neutron deposites energy in matter. It is a neutral particle.**
 * **[Q] What is the momentum of a muon to beMinimun ionization of particle (MIP)?**
   $$
-  E= m\gamma \\
-  p = m\beta \gamma \\
-  \beta \gamma = \frac{p}{m}
-  $$
+    E= m\gamma \\
+    p = m\beta \gamma \\
+    \beta \gamma = \frac{p}{m}
+    $$
 
-  $m_{\mu} = 100 MeV/c^{2} \equiv 0.1 GeV /c^{2}$
-  $$
-  \beta \gamma = 3 \\
-  or, p/m = 3 \\
-  or, p/(0.1 Gev/c^{2}) = 3 \\
-  or, p = 0.3 GeV/c
+    $m_{\mu} = 100 MeV/c^{2} \equiv 0.1 GeV /c^{2}$
+    $$
+    \beta \gamma = 3 \\
+    or, p/m = 3 \\
+    or, p/(0.1 Gev/c^{2}) = 3 \\
+    or, p = 0.3 GeV/c
   $$
   * **Why $\beta\gamma =3?$**
     * From experimental plots.
   * Super-K have a diameter of 30m and for muon $-\frac{dE}{dx} = 2$ Mev/cm
   $$
-  E_{deposite} = -\frac{dE}{dx} \times L \\
-  or, E_{deposite} = 2 MeV/cm \times 30 \times 1000 \\
-  or E_{deposite} = 6000 MeV \equiv 6 GeV
+    E_{deposite} = -\frac{dE}{dx} \times L \\
+    or, E_{deposite} = 2 MeV/cm \times 30 \times 1000 \\
+    or E_{deposite} = 6000 MeV \equiv 6 GeV
   $$
   Super-K can detect 6 GeV muons but in reality it can also detect higher energy muons.
 
@@ -720,7 +720,7 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 #### NUET handson:
 [Whole slide](../figs/VSoN10/VSoN_Introduction_to_NEUT_JMcK.pdf)
 
-
+--------------------------------------------------------------------------------
 
 ## Day 6 (21st July 2026)
 
@@ -864,8 +864,42 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 * Unitarity condition is required to make to total probabilty to unity.
 
 
+-------------------------------------------------------------------------------
 
 ## Day 8 (23rd July 2026)
 ### Solar neutrino experiments (Yuichi Oyama, KEK/J-PARC)
 
-*
+#### Total solar neutrino flux:
+* Neutrino production in sun:
+  $$
+   4p \rightarrow He + 2e^{+} + 2\nu_e + \Delta E
+  $$
+* For sun $\Delta E$ ~ 27 MeV.
+* Solar Luminosity:
+  $$
+    L_{sun} = 3.84 \times 10^{33} erg/sec
+  $$
+* Total neutrino flux can be estimated as:
+  $$
+    \Phi = \frac{(L_{sun}/\Delta E)\times 2 }{4 \pi d^2_{s-E}}
+  $$
+* Total solar neutrino flux $\Phi$ ~ $6 \times 10^{10} cm^{-2} sec^{-1}$
+
+#### Chain reaction in the sun:
+
+* PP chain.
+  * PPI
+  * PPII
+  * PPIII : Boron reaction
+* CNO cycle.
+
+#### Energy spectrum of solar neutrinos (Standard Solar Model [SSM]):
+
+* $^{8}$B neutrino is of ~ 8 MeV in range. Detected using water cherenkov detector.
+* $^{7}$Be neutrino of ~ 7 MeV range. 
+  * Cl experiment used to detect them.
+  * Homestake experiment. 
+
+#### MSW effect:
+* It came from the analogy of the speed of light in matter.
+* It can be considered as maximal mass mixing.
